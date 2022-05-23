@@ -1,5 +1,5 @@
 {
-  "name": "@modern-js-test/component-2",
+  "name": "@modernjs-test/component-2",
   "version": "0.1.0",
   "jsnext:source": "./src/index.ts",
   "types": "./dist/types/index.d.ts",
